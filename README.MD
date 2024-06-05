@@ -3,4 +3,4 @@
 
 Contact: igor@cmlab.csie.ntu.edu.tw
 
-[https://arxiv.org/pdf/2405.11478](arxiv link)
+[arxiv link](https://arxiv.org/pdf/2405.11478), [compressed pdf](https://drive.google.com/file/d/19dEXmlMJ4tlitLgQgPMjTV7nkBYh3YPF/view?usp=sharing)
